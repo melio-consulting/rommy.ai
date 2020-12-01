@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Rommy</title>
-    <link>http://examplesite.org/tags/</link>
-    <description>Recent content in Tags on Rommy</description>
+    <title>Tags on Rommy AI</title>
+    <link>https://rommy.ai/tags/</link>
+    <description>Recent content in Tags on Rommy AI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://examplesite.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://rommy.ai/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
